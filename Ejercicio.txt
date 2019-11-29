@@ -1,0 +1,40 @@
+
+
+
+
+
+dato = que + (5 * a)
+
+import java.util.Scanner;
+import java.util.;
+public class EjercicioB {
+
+   public static void main(String[] args) {
+        int a=10;
+        int b=5*20;
+        for (int i=0; i<5; i++)
+        {
+            a++;
+        }
+        
+        if(a>20){
+            System.out.println(a);
+        }else
+            System.out.println(b);
+        
+           double sumas= a+52.20;
+         System.out.println(sumas);
+
+          edad >= 5, suma != 0
+
+
+	do{
+		sumas+=20;
+	}while(a<=25);
+	int loco= a * (sumas- b);
+}
+    }
+ 
+    
+}
+
